@@ -1,7 +1,9 @@
 👨🏻‍💻 🇮🇳 Who am I
 
 I have a strong passion for Test and Automation engineering in BDD Cucumber Framework with java selenium.
+
 I like to build scalable test automation frameworks and utilities to solve testing and automation problems.
+
 I believe in understanding and testing all the layers of the stack and have worked with Web and Mobile in Transport Domain.
 As a QA Engineer, Every stage in STLC thrills me. I am always curious, with a critic's eye and attention to detail. I love to engage with challenges every day by putting myself in the customer's shoes and working on a product.
 
