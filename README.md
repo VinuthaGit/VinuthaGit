@@ -1,4 +1,5 @@
 👨🏻‍💻 🇮🇳 Who am I
+
 I have a strong passion for Test and Automation engineering in BDD Cucumber Framework with java selenium.
 I like to build scalable test automation frameworks and utilities to solve testing and automation problems.
 I believe in understanding and testing all the layers of the stack and have worked with Web and Mobile in Transport Domain.
@@ -21,12 +22,15 @@ My Mission Statements:
 --Deliver in a cost-effective manner
 
 🌱 I’m currently learning about ...
+
 API Testing Tools
 Python in Automation and Different Soft Skilld
 
 📝 I write at ...
+
 I also blog on the work style of QA Engineer. To educate the graduate(Freshers) about the life of professional
 
 
 📫 How to reach me
+
 [LinkedIn](https://www.linkedin.com/in/vinutha-b-1a010b216/)
