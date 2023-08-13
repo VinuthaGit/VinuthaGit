@@ -26,11 +26,11 @@ My Mission Statements:
 🌱 I’m currently learning about ...
 
 API Testing Tools
-Python in Automation and Different Soft Skills
+Different Soft Skills
 
-📝 I write at ...
+📝 Skilled at ...
 
-I also blog on the work style of QA Engineer. To educate the graduate(Freshers) about the life of professional
+Python, Java, BDD cucumber framework, Manual Testing
 
 
 📫 For More Details
