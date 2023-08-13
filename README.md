@@ -12,7 +12,7 @@ As a QA Engineer, Every stage in STLC thrills me. I am always curious, with a cr
 --Able to contribute as an individual contributor and focused on task completion
 --Strong testing skills supported by strong business analysis and communication skills
 --Quick learner and actively learning new features, explore automation tools
-Tools and Technologies: Postman API, JIRA, Ghost Inspector, Trello, BrowserStack, Google sheet, Airtable
+Tools and Technologies: Postman API, JIRA, BrowserStack, Google sheet, chatGPT
 
 My profession includes developing the right mindset and testing the product with different aspects by looking at a product from different angles, and with different perspectives. I find bugs to improve the product quality and thus help in growing confidence regarding the product developed. By applying a number of ideas, I look at the bigger picture and understand how badly end users can handle the product and imagine what could be the end user’s expectations.
 
@@ -26,13 +26,13 @@ My Mission Statements:
 🌱 I’m currently learning about ...
 
 API Testing Tools
-Python in Automation and Different Soft Skilld
+Python in Automation and Different Soft Skills
 
 📝 I write at ...
 
 I also blog on the work style of QA Engineer. To educate the graduate(Freshers) about the life of professional
 
 
-📫 How to reach me
+📫 For More Details
 
 [LinkedIn](https://www.linkedin.com/in/vinutha-b-1a010b216/)
